@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    width: 100%;
+    border-bottom: 3px solid #C4C4C4;
+    align-items: center;
+}
+/* .left {
+    font-weight: bold;
+    font-size: 19px;
+    
+    margin-left: 10px;
+    width: 50%;
+    font-style: oblique; */
+
+.logo{
+    margin-top: 0px;
+    vertical-align: baseline;
+    padding-top: 10px;
+    margin-right: 360px;
+    /* position: absolute; */
+}
+.left p{
+    left: 60px;
+    font-weight: 5px;
+    margin-left: 25px;
+    color: black;
+    visibility: visible;
+    margin-right: 10px;
+    width: 50%;
+}
+.social{
+    
+    /* padding: 5px; */
+    /* font-size: 10px; */
+    width: 25%;
+    vertical-align: baseline;
+    margin-top: 0px;
+    
+    
+}
+.icon{
+    visibility: visible;
+    font-size: 50px;
+    color: #283050;
+    
+    height: 40px !important;
+    width: 40px !important;
+    
+    /* background-color: #fff; */
+}
+.icon>path{
+    fill: #283050;
+    color: white;
+}
+
+
+.social a{
+    padding-left: 25px;
+    font-size: 50px;
+    color: #283050;
+    width: 50px;
+    height: 50px;
+    visibility: visible;
+    /* width: 50%; */
+}
+.navbar{
+    text-decoration: none;
+    text-align: center;
+    padding-top: 12px;
+}
+.navbar a{
+    text-decoration: none;
+    padding-left: 60px;
+    color: #781107;
+}

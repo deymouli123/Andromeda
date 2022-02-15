@@ -1,0 +1,69 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    font-style: oblique;
+}
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    font-style:oblique ;
+}
+.right{
+    position: relative;
+    float: right;
+    bottom: 320px; 
+    width: 50%;
+    font-style: oblique;
+    margin-right: 80px;
+    
+}
+.user-input{
+    /* margin-top: 0px auto; */
+    /* /* padding: 40px; */
+     width: 60%;  
+    padding-top: 30px;
+    height: 20px;
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+    font-style: oblique;
+    
+}
+.left{
+    font-weight: bold;
+    font-size: 19px;
+    width: 50%;
+    margin-left: 250px;
+    font-style: oblique;
+}
+.btn{
+    display: block;
+    /* bottom: 20%; */
+    margin-block-start: 20px;
+    /* position: absolute; */
+    padding-inline-start: 5px;
+    height: 30px;
+    width: 15%;
+    /* float: right; */
+    margin-left: 310px;
+    border-radius: 5px ;
+    background-color: #283050;
+    color: #fff;
+}
+#txt{
+    width: 60%;  
+    padding-top: 10px;
+    height: 60px;
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+
+}
+h2{
+    text-align: right;
+    margin-right: 450px;
+    font-style: oblique;
+}

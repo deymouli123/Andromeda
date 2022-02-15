@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+}
+.homePage{
+    margin-top: 280px;
+}
+.background{
+    width: 1326px;
+    height: 718px;
+    margin-left: 60px;
+}
+.img{
+    border-radius: 5px;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+    margin-left: 65px;
+}
+.middle h2{
+    color: #781107;
+    /* border-bottom: transparent; */
+    font-size: 70px;
+
+    font-weight: 200;
+    margin-top: 10px;
+    position: absolute;
+    width: 913px;
+    height: 172px;
+    left: 163px;
+    top: 445px;
+}
+.upper p{
+    /* position: absolute;
+    width: 673px;
+    height: 49px;
+    left: 163px;
+    top: 312px;
+    color:black; */
+    position: absolute;
+    width: 673px;
+    height: 49px;
+    left: 163px;
+    top: 312px;
+
+    font-family: Salsa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.lower p{
+    position: absolute;
+    width: 763px;
+    height: 70px;
+    left: 163px;
+    top: 695px;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #283050;
+}
+#btn{
+    background-color: #283050;
+    float: right;
+    color: #fff;
+    width: 131px;
+    height: 63px;
+    margin-right: 50px;
+    margin-top: -82px;
+    border-radius: 8px;
+}

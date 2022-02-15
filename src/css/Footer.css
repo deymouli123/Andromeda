@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+    color: #fff;
+    font-weight: 20px;
+    
+}
+.bottom{
+    padding-top: 30px;
+    display: flex;
+    background-color: #283050;
+    margin-bottom: 0px;
+    justify-content: space-between;
+    vertical-align: baseline;
+    width: 100%;
+    height: 150px;
+    /* left: -37px; */
+    /* top: 993px; */
+    margin-top: 993px;
+}
+.co-office{
+    margin-left: 20px;
+    /* padding-top: 10px; */
+}
+
+.co-office h5{
+    color: #fff;
+    font-size: 20px;
+}
+.co-office p{
+    padding-top: 10px;
+    color: #fff;
+    font-size: 18px;
+}
+.available h5{
+    color: #fff;
+    font-size: 20px;
+}
+.available p{
+    padding-top: 10px;
+    color: #fff;
+    font-size: 18px;
+}
+.andro{
+    margin-right: 100px;
+    display: inline;
+    /* margin-left: 20px; */
+
+}
+.andro h5{
+    color: #fff;
+    font-size: 20px;
+    
+    
+    
+}

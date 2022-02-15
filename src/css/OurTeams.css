@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Salsa', cursive;
+}
+h2{
+    text-align: center;
+    /* align-items: center; */
+    color: black;
+    font-size: 40px;
+    width: 90%;
+}
+
+.left{
+    border-radius: 10px;
+}
+
+.para{
+    width: 80%;
+    height: 70%;
+    /* text-align: center; */
+    justify-items: center;
+    display: flex;
+    margin-left: 174px;
+}
+p{
+    color: black;
+    font-size: 25px;
+
+    
+}
+#btn{
+    background-color: #283050;
+    float: right;
+    color: #fff;
+    width: 131px;
+    height: 63px;
+    margin-right: 120px;
+    margin-top: 20px;
+}
+
+.icon{
+    visibility: visible;
+    font-size: 50px;
+    color: #283050;
+    
+    height: 40px !important;
+    width: 40px !important;
+    
+    /* background-color: #fff; */
+}
+.icon>path{
+    fill: #283050;
+    color: white;
+}
+#mid{
+    position: absolute;
+    width: 294px;
+    height: 273px;
+    left: 572px;
+    top: 361px;
+
+
+    border-radius: 10px;
+}
+
+.bio2 p{
+    position: absolute;
+    width: 168px;
+    height: 31px;
+    left: 635px;
+    top: 654px;
+    
+    font-family: Salsa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
